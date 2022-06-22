@@ -1,6 +1,6 @@
 vot-trax>=3.0.2
 tqdm>=4.37
-numpy>=1.16
+numpy
 opencv-python>=4.0
 six
 pylatex>=1.3
